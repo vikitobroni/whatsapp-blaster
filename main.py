@@ -41,7 +41,7 @@ def main():
     data = read_excel(EXCEL_FILE)
 
     # Path ke WebDriver (sesuaikan dengan lokasi Anda)
-    driver_path = r"E:\WaBlast\chromedriver.exe"  # Gunakan format mentah dengan r""
+    driver_path = r"E:\whatsapp-blaster\chromedriver.exe"  # Gunakan format mentah dengan r""
     service = Service(driver_path)
 
     # Inisialisasi WebDriver
