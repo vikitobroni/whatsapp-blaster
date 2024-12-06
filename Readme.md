@@ -36,9 +36,9 @@ Pastikan perangkat lunak dan pustaka berikut telah terinstal:
 
 1. Clone repositori ini atau unduh kode.
 
-```bash
+   ```bash
    git clone https://github.com/vikitobroni/whatsapp-blaster.git
-```
+   ```
 
 2. Instal pustaka Python yang diperlukan menggunakan `requirements.txt` yang disediakan:
    ```bash
