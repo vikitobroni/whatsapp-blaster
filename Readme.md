@@ -2,6 +2,7 @@
 
 Proyek ini mengotomatisasi proses pengiriman pesan ke banyak penerima di WhatsApp menggunakan Selenium dan data dari file Excel. Ini memberikan cara yang efisien untuk menangani pengiriman pesan WhatsApp tanpa mengetik setiap pesan secara manual.
 
+
 ---
 
 ## Fitur
